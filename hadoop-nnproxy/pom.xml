@@ -17,7 +17,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <hadoop.version>2.6.0-cdh5.4.4</hadoop.version>
+        <hadoop.version>3.2.3</hadoop.version>
         <zookeeper.version>3.4.8</zookeeper.version>
         <curator.version>2.9.1</curator.version>
         <junit.version>4.11</junit.version>
